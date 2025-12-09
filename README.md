@@ -20,5 +20,4 @@
   Applying Python & ML to healthcare: tools for literature search and clinical workflows.
 
 ## Projects
-- VertigoER - Asistente de valoración de vértigo en urgencias basado en guías clínicas
-(https://malsbass.github.io/vertigoer)
+- <a href="https://malsbass.github.io/vertigoer">VertigoER</a>- Asistente de valoración de vértigo en urgencias basado en guías clínicas
