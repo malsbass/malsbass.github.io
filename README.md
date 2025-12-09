@@ -21,4 +21,4 @@
 
 ## Projects
 - VertigoER - Asistente de valoración de vértigo en urgencias basado en guías clínicas
-[[https://malsbass.github.io/vertigoer/]]
+(https://malsbass.github.io/vertigoer/)
